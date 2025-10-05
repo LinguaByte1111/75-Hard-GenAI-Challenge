@@ -1,6 +1,9 @@
 # 🧠 75 Hard Gen AI Challenge 🚀
 
-Welcome to my 75 Hard Gen AI Challenge — a personal journey to sharpen my AI, ML, and creativity skills through daily consistency, building, and sharing.
+---
+
+## Welcome to my 75 Hard Gen AI Challenge — a personal journey to sharpen my AI, ML, and creativity skills through daily consistency, building, and sharing.
+
 ---
 
 ## 🎯 What Is This Challenge?
