@@ -2,7 +2,7 @@
 
 ---
 
-## Welcome to my 75 Hard Gen AI Challenge — a personal journey to sharpen my AI, ML, and creativity skills through daily consistency, building, and sharing.
+## Welcome to my 75 Hard Gen AI Challenge - a personal journey to sharpen my AI, ML, and creativity skills through daily consistency, building, and sharing.
 
 ---
 
@@ -18,8 +18,8 @@ For 75 days straight, I’ll:
 #### 📚 Reflect — document key insights, failures, and breakthroughs.
 #### 🚫 No skipping days — if I miss one, I start over!
 #### 🗓️ Challenge Duration
-  * #### Start Date: [Insert Date]
-  * #### End Date: [Insert Date + 75 days]
+  * #### Start Date: 10/22/2025
+  * #### End Date: 01/05/2026
 
 ---
 
