@@ -1,0 +1,23 @@
+Apple is buying a UK startup for $1 billion! Email me at info@apple.com.
+
+DATA PREPROCESSING RESULTS:- 
+
+Cleaned Text:
+ apple is buying a uk startup for billion email me at 
+
+Tokens:
+ ['apple', 'buying', 'uk', 'startup', 'billion', 'email']
+
+Stems:
+ ['appl', 'buy', 'uk', 'startup', 'billion', 'email']
+
+Lemmas:
+ ['apple', 'buying', 'uk', 'startup', 'billion', 'email']
+
+Part of Speech Tags:
+ [('apple', 'NN'), ('buying', 'VBG'), ('uk', 'NN'), ('startup', 'NN'), ('billion', 'NN'), ('email', 'NN')]
+
+Named Entities:
+  Apple -> ORG
+  UK -> GPE
+  $1 billion -> MONEY
